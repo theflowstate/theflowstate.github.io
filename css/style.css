@@ -1,0 +1,37 @@
+
+.center_container {
+    margin: auto;
+    max-width: 800px;
+}
+
+.outer_margin {
+    margin: 40px 40px 40px 40px; /* top right bottom left*/
+}
+
+h1 {
+    font-family: "Arial";
+    margin-top: 0px;
+    border: 40px solid #558573;
+    background-color: #558573;
+    text-align: center;
+    font-size:40px;
+}
+
+.navigation_bar {
+    font-family: "Arial";
+    text-align: left;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.navigation_bar a {
+    color: white;
+}
+
+.navigation_bar a:hover {
+        color: grey;
+}
+
+.navigation_bar a.active {
+  color: grey;
+}
