@@ -1,2 +1,2 @@
 # theflowstate.github.io
-The website for the flowstate.
+theflowstate.github.io
